@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="SubhanSayyed_Cli::elements" title="Command Line by SubhanSayyed" translate="title" module="SubhanSayyed_Cli" action="commandline/index" sortOrder="60" resource="SubhanSayyed_Cli::elements"/>
+    </menu>
+</config>
